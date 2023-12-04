@@ -8,7 +8,7 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 - **BS Computer Science**
   New Era University
-  *2021 - Present*
+  *2023 - Present*
 
 ## Certifications
 
