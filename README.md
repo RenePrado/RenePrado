@@ -12,10 +12,10 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 ## Certifications
 
-- **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate]([certification-link-1](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd))**
+- **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](certification-link-1)**
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](certification-link-2)**
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certification-link-3)**
-- **[SQL and Relational Databases 101](certification-link-4)**
+- **[SQL and Relational Databases 101]([certification-link-4](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd))**
 
 ## Skill Sets
 
