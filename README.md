@@ -14,12 +14,13 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 | Certificate | Issued By | Date Issued |
 |-------------|-----------|-------------|
+| [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 |
+| [Data Analytics Essentials](https://www.credly.com/badges/2ff08b66-fe98-4693-8dc8-b9ca6e342c95/public_url) | Cisco | September 2025 |
+| [Data Driven Facilities Management: The Future of Smart Spaces](https://github.com/user-attachments/assets/6b3ff46b-ff3c-4e15-a676-7b6f531df6de) | NEU CICS | March 2025 |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd) | IBM Cognitive Class | November 2023 |
 | [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E768556741CC56D68CBECAF081F1B91EEADB51A69E35E08948DFF586673CCDFE) | Oracle | November 2023 |
 | [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=866E18EC8E05A9355FA63F331F0DA15C06AA2A075544F9F27B784BF9653531FA&fbclid=IwAR3p8j8bFm001zFYnPqWdNiSnh-oXrIt8x21V0fPlyexS-UuvzsbL5WgKqw) | Oracle | November 2023 |
 | [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B83A471F4B050E59269DD943DD1D4B59FB2630146DA592B912882C01D5F06AF&fbclid=IwAR30JvbuezaJAE-W5_8GwRP0EuCy3xPiWvf_7n5dq3KS_JsygfDH_nvZEvg) | Oracle | November 2023 |
-| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd) | IBM Cognitive Class | November 2023 |
-| [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 |
-| [Data Analytics Essentials](https://www.credly.com/badges/2ff08b66-fe98-4693-8dc8-b9ca6e342c95/public_url) | Cisco | September 2025 |
 
 ## Skill Sets
 
