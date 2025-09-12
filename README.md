@@ -21,9 +21,10 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 ## Skill Sets
 
-- **Programming Languages:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML 
+- **Programming Languages:** Java, SQL, Javascript, Python, PHP
+- **Web Development:** HTML, CSS, React.js, Node.js
+- **Databases:** MySQL, IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, Figma 
 
 ## Let's Connect
 - **Email:** reneangeloprado50@gmail.com
