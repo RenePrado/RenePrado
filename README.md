@@ -15,8 +15,8 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 | Certificate | Issued By | Date Issued |
 |-------------|-----------|-------------|
 | [Data Science Tools](https://github.com/user-attachments/files/22383385/IBM.DS0105EN.Certificate._.Cognitive.Class.pdf) | Cognitive Class | September 2025
-| [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 |
 | [Data Analytics Essentials](https://www.credly.com/badges/2ff08b66-fe98-4693-8dc8-b9ca6e342c95/public_url) | Cisco | September 2025 |
+| [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 |
 | [Data Driven Facilities Management: The Future of Smart Spaces](https://github.com/user-attachments/assets/6b3ff46b-ff3c-4e15-a676-7b6f531df6de) | NEU CICS | March 2025 |
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd) | IBM Cognitive Class | November 2023 |
 | [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E768556741CC56D68CBECAF081F1B91EEADB51A69E35E08948DFF586673CCDFE) | Oracle | November 2023 |
