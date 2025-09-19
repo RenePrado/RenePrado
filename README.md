@@ -14,6 +14,8 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 | Certificate | Issued By | Date Issued |
 |-------------|-----------|-------------|
+| [Getting Started in Google Analytics](https://github.com/user-attachments/files/22420262/Coursera.QWL595K5S0QV.pdf) | Coursera | September 2025
+| [Analyze Website Visitors with Google Analytics Segments](https://github.com/user-attachments/files/22420077/Coursera.4J5CP6ZFROZS.pdf) | Coursera | September 2025
 | [Data Science Tools](https://github.com/user-attachments/files/22383385/IBM.DS0105EN.Certificate._.Cognitive.Class.pdf) | Cognitive Class | September 2025
 | [Data Analytics Essentials](https://www.credly.com/badges/2ff08b66-fe98-4693-8dc8-b9ca6e342c95/public_url) | Cisco | September 2025 |
 | [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 |
