@@ -27,7 +27,7 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 ## Skill Sets
 
-### Programming Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
