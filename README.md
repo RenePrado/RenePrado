@@ -14,18 +14,23 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 | Certificate | Issued By | Date Issued | 
 |-------------|:-----------:|:-------------:| 
-| [Gemini Certified University Student](https://edu.google.accredible.com/bb6fa5b8-f0dd-4d8d-9fa0-03ae52fd9b10#acc.cX0PBR86) | Google for Education | January 2026
-| [Getting Started in Google Analytics](https://coursera.org/share/ba08ca3c670ddd32f20c139719a32b02) | Coursera | September 2025 
-| [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/4e6687470b2fe1d607f0b59542f5d474) | Coursera | September 2025 
-| [Data Science Tools](https://www.credly.com/badges/0173a239-5839-488f-a72d-263f439ba226) | Cognitive Class | September 2025 
-| [Data Analytics Essentials](https://www.credly.com/badges/2ff08b66-fe98-4693-8dc8-b9ca6e342c95/public_url) | Cisco | September 2025 
-| [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/72787e187c04baf46281ce6bd44c4599) | Coursera | September 2025 
-| [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 
-| [Data Driven Facilities Management: The Future of Smart Spaces](https://github.com/user-attachments/assets/6b3ff46b-ff3c-4e15-a676-7b6f531df6de) | NEU CICS | March 2025 
-| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd) | IBM Cognitive Class | November 2023 
-| [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E768556741CC56D68CBECAF081F1B91EEADB51A69E35E08948DFF586673CCDFE) | Oracle | November 2023 
-| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=866E18EC8E05A9355FA63F331F0DA15C06AA2A075544F9F27B784BF9653531FA&fbclid=IwAR3p8j8bFm001zFYnPqWdNiSnh-oXrIt8x21V0fPlyexS-UuvzsbL5WgKqw) | Oracle | November 2023 
-| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B83A471F4B050E59269DD943DD1D4B59FB2630146DA592B912882C01D5F06AF&fbclid=IwAR30JvbuezaJAE-W5_8GwRP0EuCy3xPiWvf_7n5dq3KS_JsygfDH_nvZEvg) | Oracle | November 2023 
+| [Gemini Certified University Student](https://edu.google.accredible.com/bb6fa5b8-f0dd-4d8d-9fa0-03ae52fd9b10#acc.cX0PBR86) | Google for Education | January 2026 |
+| [Getting Started in Google Analytics](https://coursera.org/share/ba08ca3c670ddd32f20c139719a32b02) | Coursera | September 2025 |
+| [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/4e6687470b2fe1d607f0b59542f5d474) | Coursera | September 2025 |
+| [Data Science Tools](https://www.credly.com/badges/0173a239-5839-488f-a72d-263f439ba226) | Cognitive Class | September 2025 |
+| [Data Analytics Essentials](https://www.credly.com/badges/2ff08b66-fe98-4693-8dc8-b9ca6e342c95/public_url) | Cisco | September 2025 |
+| [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/72787e187c04baf46281ce6bd44c4599) | Coursera | September 2025 |
+| [Introduction to Data Science](https://www.credly.com/badges/0e21a32d-bf96-4e72-9e7b-2a8c5245d7c5/public_url) | Cisco | August 2025 |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d0f1221d75e641829455f9ae3b3076fd) | IBM Cognitive Class | November 2023 |
+| [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E768556741CC56D68CBECAF081F1B91EEADB51A69E35E08948DFF586673CCDFE) | Oracle | November 2023 |
+| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=866E18EC8E05A9355FA63F331F0DA15C06AA2A075544F9F27B784BF9653531FA&fbclid=IwAR3p8j8bFm001zFYnPqWdNiSnh-oXrIt8x21V0fPlyexS-UuvzsbL5WgKqw) | Oracle | November 2023 |
+| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B83A471F4B050E59269DD943DD1D4B59FB2630146DA592B912882C01D5F06AF&fbclid=IwAR30JvbuezaJAE-W5_8GwRP0EuCy3xPiWvf_7n5dq3KS_JsygfDH_nvZEvg) | Oracle | November 2023 |
+
+## Seminars Attended
+
+| Seminar | Organized By | Date |
+|---------|:------------:|:----:|
+| [Data Driven Facilities Management: The Future of Smart Spaces](https://github.com/user-attachments/assets/6b3ff46b-ff3c-4e15-a676-7b6f531df6de) | NEU CICS | March 2025 |
 | [Lessons, Trends and Opportunities in the IT Industry (Hypervisor / ESXi)](https://github.com/user-attachments/assets/a0e062d7-ac80-4f38-b867-ce38fce0da97) | NEU CICS | April 2023 |
 | [Lessons, Trends and Opportunities in the IT Industry (SSL Certificate)](https://github.com/user-attachments/assets/4b65717e-cb5f-4af0-b8bd-b2a19fb9df24) | NEU CICS | April 2023 |
 
@@ -56,11 +61,8 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
-
 ## Let's Connect
 [![Email](https://img.shields.io/badge/Email-reneangeloprado50@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reneangeloprado50@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneprado50/)
 
 Feel free to reach out! I'm always open to new opportunities and collaborations.
-
-
