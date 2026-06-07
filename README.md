@@ -30,18 +30,10 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 | Seminar | Organized By | Date |
 |---------|:------------:|:----:|
-| [From Frame to Scene: I have a Degree in Animation. Now, What's Next?](https://github.com/user-attachments/files/28670270/D2_T6_S208.pdf) | NEU CICS | April 2026 |
-| [How to Earn in Animation](https://github.com/user-attachments/files/28670269/D2_T5_S53.pdf) | NEU CICS | April 2026 |
-| [Business Communication](https://github.com/user-attachments/files/28670267/D2_T4_S132.pdf) | NEU CICS | April 2026 |
-| [Rewrite your Legacy: From Comics to Hollywood - A 2D Illustrator's Journey](https://github.com/user-attachments/files/28670265/D2_T3_S50.pdf) | NEU CICS | April 2026 |
 | [Beyond the Degree: Skills and Competencies for your Future Tech](https://github.com/user-attachments/files/28670264/D2_T2_S160.pdf) | NEU CICS | April 2026 |
 | [Modern Web Development: How a Full Stack Web App Goes Live](https://github.com/user-attachments/files/28670263/D2_T1_S100.pdf) | NEU CICS | April 2026 |
-| [Power UP your PASSION: Careers in Gaming World](https://github.com/user-attachments/files/28670122/D1_T6_S48.pdf) | NEU CICS | April 2026 |
-| [Behind the Scenes of Game QA: Testing, NDA's, and Daily Life](https://github.com/user-attachments/files/28670113/D1_T5_S175.pdf) | NEU CICS | April 2026 |
 | [Web Penetration Testing 101](https://github.com/user-attachments/files/28670092/D1_T4_S191.pdf) | NEU CICS | April 2026 |
 | [Agentic Coding](https://github.com/user-attachments/files/28670088/D1_T3_S202.pdf) | NEU CICS | April 2026 |
-| [Building a Home without Windows: A Student's Guide to Linux](https://github.com/user-attachments/files/28670084/D1_T2_S197.pdf) | NEU CICS | April 2026 |
-| [Life After Graduation: The Reality No One Talks About](https://github.com/user-attachments/files/28670081/D1_T1_S147.pdf) | NEU CICS | April 2026 |
 | [Data Driven Facilities Management: The Future of Smart Spaces](https://github.com/user-attachments/assets/6b3ff46b-ff3c-4e15-a676-7b6f531df6de) | NEU CICS | March 2025 |
 | [Lessons, Trends and Opportunities in the IT Industry (Hypervisor / ESXi)](https://github.com/user-attachments/assets/a0e062d7-ac80-4f38-b867-ce38fce0da97) | NEU CICS | April 2023 |
 | [Lessons, Trends and Opportunities in the IT Industry (SSL Certificate)](https://github.com/user-attachments/assets/4b65717e-cb5f-4af0-b8bd-b2a19fb9df24) | NEU CICS | April 2023 |
