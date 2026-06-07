@@ -68,5 +68,6 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 ## Let's Connect
 [![Email](https://img.shields.io/badge/Email-reneangeloprado50@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reneangeloprado50@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneprado50/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://reneprado-portfolio.vercel.app/)
 
 Feel free to reach out! I'm always open to new opportunities and collaborations.
