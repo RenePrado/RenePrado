@@ -8,7 +8,7 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 
 - **BS Computer Science**
   New Era University
-  *2023 - Present*
+  *2022 - 2026*
 
 ## Certifications
 
@@ -41,29 +41,32 @@ I am Rene Angelo Prado, a passionate coder with strong database management skill
 ## Skill Sets
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-054ADA?logo=ibm&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 
 ### Tools & Platforms
-![Lucidchart](https://img.shields.io/badge/Lucidchart-FA6400?logo=lucidchart&logoColor=white&style=for-the-badge)
-![Jaspersoft](https://img.shields.io/badge/Jaspersoft-0083C1?style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-FA6400?logo=lucidchart&logoColor=white&style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 
 ## Let's Connect
 [![Email](https://img.shields.io/badge/Email-reneangeloprado50@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reneangeloprado50@gmail.com)
